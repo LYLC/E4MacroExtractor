@@ -5,7 +5,7 @@ Excel 4.0 macro functions are supported in the latest Microsoft Excel program. T
 This is an initial release. Bugs are expected. Use it as is. This script will be improved to enhance the stability and functionality. However, please feel free to reach out to me if any bugs are found.
 
 ## Version
-0.1.0
+0.1.1
 
 ## Usage
 Usage: python3 E4MacroExtractor.py [FILE_NAME]
@@ -14,4 +14,4 @@ Usage: python3 E4MacroExtractor.py [FILE_NAME]
 python3 E4MacroExtractor.py test.xlsm
 
 ## SHA256
-87b382c2fa3d4658886f0e9022072856520dbe7a69a91483b52ae7b355eadacf  E4MacroExtractor-0.1.0.zip
+2d96fb2974c27e987cf522e3ad7f8d65a680872a3458d969be1859e730cac12a  E4MacroExtractor-0.1.1.zip
