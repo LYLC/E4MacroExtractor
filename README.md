@@ -14,4 +14,4 @@ Usage: python3 E4MacroExtractor.py [FILE_NAME]
 python3 E4MacroExtractor.py test.xlsm
 
 ## SHA256
-ab84deefc3e544f46de933d47626be177ac3d8f8a640ecfc0e882dbd17ca523d  E4MacroExtractor-0.5.0.zip
+38b9d87e78b23cef5082cad3bafa746120f67699c6005453fd2245fefebc2b9f  E4MacroExtractor-0.5.0.zip
